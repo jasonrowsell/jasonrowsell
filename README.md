@@ -5,7 +5,7 @@
 ## I'm a Junior Full Stack Software Engineer
 
 - 🌱 I’m currently a student at Makers Academy
-- - 🚀 I'm currently working on: [TWXIIVECoin (Cryptocurrecy with Blockchain)](https://github.com/jasonrowsell/TWXIIVECoin)
+- 🚀 I'm currently working on: [TWXIIVECoin (Cryptocurrecy with Blockchain)](https://github.com/jasonrowsell/TWXIIVECoin)
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Build a social media platform
 - ⚡ Fun facts: I'm a former national athlete and fashion designer

@@ -23,11 +23,11 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="jQuery" width="26px" src="https://cdn.svgporn.com/logos/jquery.svg" />
 <img align="left" alt="Ruby" width="26px" src="https://cdn.svgporn.com/logos/ruby.svg" />
 <img align="left" alt="Rails" width="26px" src="https://cdn.svgporn.com/logos/rails.svg" />
 <img align="left" alt="Sinatra" width="26px" src="https://cdn.svgporn.com/logos/sinatra.svg" />
 <img align="left" alt="PostGreSQL" width="26px" src="https://cdn.svgporn.com/logos/postgresql.svg" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
 <br />

@@ -8,7 +8,7 @@
 - 🚀 I'm currently working on: [TWXIIVECoin (Cryptocurrecy with Blockchain)](https://github.com/jasonrowsell/TWXIIVECoin)
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Build a social media platform
-- ⚡ Fun facts: I'm a former athlete for GB and fashion designer
+- ⚡ Fun facts: I'm a former GB athlete and fashion designer
 
 ### Spotify Playing 🎧
 

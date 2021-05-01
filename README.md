@@ -4,7 +4,7 @@
 
 ## I'm a Junior Software Engineer 💻
 
-- 🌱 I’m currently a student at Makers Academy
+- 🌱 I’m currently a student at [Makers Academy](https://makers.tech/about-us/)
 - 🚀 I'm working on: [TWXIIVECoin (Cryptocurrecy with Blockchain)](https://github.com/jasonrowsell/TWXIIVECoin)
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Launch a social media platform

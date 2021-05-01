@@ -36,7 +36,7 @@
 
  ### ⚡️ GitHub Stats
  
-<img alt="Jason's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jasonrowsell&show_icons=true&hide_border=true" />
+<img alt="Jason's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jasonrowsell&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" />
 
 ### ⚡️ Recent GitHub Activity
 

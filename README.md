@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://jasonrowsell-now-playing.vercel.app/api/spotify" alt="Jason's Spotify Now Playing" width="350" />](https://open.spotify.com/user/saltnpepperyoo)
+<img src="https://jasonrowsell-now-playing.vercel.app/api/spotify" alt="Jason's Spotify Now Playing" width="350" />
 
 ### Languages and Tools:
 

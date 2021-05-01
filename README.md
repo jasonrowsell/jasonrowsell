@@ -1,4 +1,4 @@
-### Hey there! I'm Jason 👋
+### Hey there! I'm Jason 😎
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jason-rowsell/) [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](#)
 

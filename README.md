@@ -36,7 +36,7 @@
 
  ### ⚡️ GitHub Stats
  
-<img align="left" alt="Jason's GitHub Stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=jasonrowsell&theme=react&show_icons=true&count_private=true&hide_border=true" />
+<img alt="Jason's GitHub Stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=jasonrowsell&theme=react&show_icons=true&count_private=true&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonrowsell&layout=compact)](https://github.com/jasonrowsell/github-readme-stats)
 

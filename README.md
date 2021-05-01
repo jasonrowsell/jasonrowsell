@@ -40,5 +40,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonrowsell&layout=compact)](https://github.com/jasonrowsell/github-readme-stats)
 
-
+<!--START_SECTION:activity-->
 

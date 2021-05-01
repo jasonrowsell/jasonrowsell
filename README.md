@@ -40,7 +40,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonrowsell&layout=compact)](https://github.com/jasonrowsell/github-readme-stats)
 
-### ⚡️ GitHub Recent Activity
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#8](https://github.com/C-A-Tech/Makers-BnB/pull/8) in [C-A-Tech/Makers-BnB](https://github.com/C-A-Tech/Makers-BnB)
@@ -49,4 +51,6 @@
 4. 🎉 Merged PR [#6](https://github.com/C-A-Tech/Makers-BnB/pull/6) in [C-A-Tech/Makers-BnB](https://github.com/C-A-Tech/Makers-BnB)
 5. 🎉 Merged PR [#7](https://github.com/C-A-Tech/Makers-BnB/pull/7) in [C-A-Tech/Makers-BnB](https://github.com/C-A-Tech/Makers-BnB)
 <!--END_SECTION:activity-->
+
+</details>
 

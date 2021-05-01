@@ -45,11 +45,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/C-A-Tech/Makers-BnB/pull/8) in [C-A-Tech/Makers-BnB](https://github.com/C-A-Tech/Makers-BnB)
-2. 💪 Opened PR [#9](https://github.com/C-A-Tech/Makers-BnB/pull/9) in [C-A-Tech/Makers-BnB](https://github.com/C-A-Tech/Makers-BnB)
-3. 💪 Opened PR [#8](https://github.com/C-A-Tech/Makers-BnB/pull/8) in [C-A-Tech/Makers-BnB](https://github.com/C-A-Tech/Makers-BnB)
-4. 🎉 Merged PR [#6](https://github.com/C-A-Tech/Makers-BnB/pull/6) in [C-A-Tech/Makers-BnB](https://github.com/C-A-Tech/Makers-BnB)
-5. 🎉 Merged PR [#7](https://github.com/C-A-Tech/Makers-BnB/pull/7) in [C-A-Tech/Makers-BnB](https://github.com/C-A-Tech/Makers-BnB)
+1. 🎉 Merged PR [#16](https://github.com/jasonrowsell/chitter-challenge/pull/16) in [jasonrowsell/chitter-challenge](https://github.com/jasonrowsell/chitter-challenge)
+2. 💪 Opened PR [#16](https://github.com/jasonrowsell/chitter-challenge/pull/16) in [jasonrowsell/chitter-challenge](https://github.com/jasonrowsell/chitter-challenge)
+3. 🎉 Merged PR [#1](https://github.com/jasonrowsell/Makers-BnB/pull/1) in [jasonrowsell/Makers-BnB](https://github.com/jasonrowsell/Makers-BnB)
+4. 💪 Opened PR [#1](https://github.com/jasonrowsell/Makers-BnB/pull/1) in [jasonrowsell/Makers-BnB](https://github.com/jasonrowsell/Makers-BnB)
+5. 🎉 Merged PR [#8](https://github.com/C-A-Tech/Makers-BnB/pull/8) in [C-A-Tech/Makers-BnB](https://github.com/C-A-Tech/Makers-BnB)
 <!--END_SECTION:activity-->
 
 </details>

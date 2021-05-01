@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Rails, React, and JavaScript
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Build a social media platform
-- 📈 Current Project: Mock cryptocurrency with blockchain
+- 📈 Current Project: [TWXIIVECoin (Cryptocurrecy with Blockchain)](https://github.com/jasonrowsell/TWXIIVECoin)
 - ⚡ Fun fact: I'm a former national athlete and fashion designer
 
 ### Spotify Playing 🎧

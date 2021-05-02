@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently a student at [Makers Academy](https://makers.tech/about-us/)
 - 🚀 I'm working on: [TWXIIVECoin (Cryptocurrency with Blockchain)](https://github.com/jasonrowsell/TWXIIVECoin-frontend)
-- 👯 I’m looking to collaborate with other developers
+- 🎯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Launch a social media platform
 - ⚡ Fun facts: I'm a former GB athlete and fashion designer
 

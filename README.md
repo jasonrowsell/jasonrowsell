@@ -39,8 +39,9 @@
  
 <img alt="Jason's GitHub Stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=jasonrowsell&theme=react&show_icons=true&count_private=true&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonrowsell&layout=compact)](https://github.com/jasonrowsell/github-readme-stats)
-
+<a href="https://github.com/jasonrowsell/jasonrowsell">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonrowsell&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>

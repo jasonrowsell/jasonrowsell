@@ -45,7 +45,7 @@
 
 <br/>
 
-### 🔥 Streak Stats
+## 🔥 Streak Stats
 
 <p align="center">
     <img title="My streak stats" alt="jasonrowsell's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jasonrowsell&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>

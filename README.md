@@ -17,7 +17,6 @@
 - 🚀 I'm working on: [TWXIIVECoin (Cryptocurrency with Blockchain)](https://github.com/MJCXII/TWXIIVECoin)
 - 🎯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Launch a social media platform
-- 💪 My tech stack includes: JavaScript, React JS, Ruby, Rails
 - ⚡ Fun facts: I'm a former GB athlete and fashion designer
 
 ### 🎶 Spotify Playing 

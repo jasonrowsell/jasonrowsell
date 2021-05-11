@@ -64,8 +64,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/jasonrowsell/weather/pull/1) in [jasonrowsell/weather](https://github.com/jasonrowsell/weather)
-2. 💪 Opened PR [#1](https://github.com/jasonrowsell/weather/pull/1) in [jasonrowsell/weather](https://github.com/jasonrowsell/weather)
+1. 🎉 Merged PR [#1](https://github.com/jasonrowsell/notes-app/pull/1) in [jasonrowsell/notes-app](https://github.com/jasonrowsell/notes-app)
+2. 💪 Opened PR [#1](https://github.com/jasonrowsell/notes-app/pull/1) in [jasonrowsell/notes-app](https://github.com/jasonrowsell/notes-app)
 3. 🎉 Merged PR [#1](https://github.com/jasonrowsell/thermostat/pull/1) in [jasonrowsell/thermostat](https://github.com/jasonrowsell/thermostat)
 4. 💪 Opened PR [#1](https://github.com/jasonrowsell/thermostat/pull/1) in [jasonrowsell/thermostat](https://github.com/jasonrowsell/thermostat)
 5. 🎉 Merged PR [#8](https://github.com/C-A-Tech/Makers-BnB/pull/8) in [C-A-Tech/Makers-BnB](https://github.com/C-A-Tech/Makers-BnB)

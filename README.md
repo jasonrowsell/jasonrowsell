@@ -14,8 +14,8 @@
 ## 👨‍💻 I'm a Junior Software Engineer
 
 - 🌱 I’m currently a student at [Makers Academy](https://makers.tech/about-us/)
-- 🚀 I'm working on: [TWXIIVECoin (Cryptocurrency with Blockchain)](https://github.com/MJCXII/TWXIIVECoin)
-- 🎯 I’m looking to collaborate with other developers
+- 🚀 I'm working on: [votty (Party voting app)](https://github.com/jasonrowsell/votty)
+- 🎯 I’m collaborating on: [TWXIIVECoin (Cryptocurrency with Blockchain)](https://github.com/MJCXII/TWXIIVECoin)
 - 🥅 2021 Goals: Launch a social media platform
 - ⚡ Fun facts: I'm a former GB athlete and fashion designer
 

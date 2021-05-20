@@ -64,11 +64,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/ahmad047/acebook-team-smiley-face/pull/3) in [ahmad047/acebook-team-smiley-face](https://github.com/ahmad047/acebook-team-smiley-face)
-2. 💪 Opened PR [#4](https://github.com/ahmad047/acebook-team-smiley-face/pull/4) in [ahmad047/acebook-team-smiley-face](https://github.com/ahmad047/acebook-team-smiley-face)
-3. 🎉 Merged PR [#1](https://github.com/jasonrowsell/notes-app/pull/1) in [jasonrowsell/notes-app](https://github.com/jasonrowsell/notes-app)
-4. 💪 Opened PR [#1](https://github.com/jasonrowsell/notes-app/pull/1) in [jasonrowsell/notes-app](https://github.com/jasonrowsell/notes-app)
-5. 🎉 Merged PR [#8](https://github.com/C-A-Tech/Makers-BnB/pull/8) in [C-A-Tech/Makers-BnB](https://github.com/C-A-Tech/Makers-BnB)
+1. 💪 Opened PR [#13](https://github.com/ahmad047/acebook-team-smiley-face/pull/13) in [ahmad047/acebook-team-smiley-face](https://github.com/ahmad047/acebook-team-smiley-face)
+2. 🎉 Merged PR [#3](https://github.com/ahmad047/acebook-team-smiley-face/pull/3) in [ahmad047/acebook-team-smiley-face](https://github.com/ahmad047/acebook-team-smiley-face)
+3. 💪 Opened PR [#4](https://github.com/ahmad047/acebook-team-smiley-face/pull/4) in [ahmad047/acebook-team-smiley-face](https://github.com/ahmad047/acebook-team-smiley-face)
+4. 🎉 Merged PR [#1](https://github.com/jasonrowsell/notes-app/pull/1) in [jasonrowsell/notes-app](https://github.com/jasonrowsell/notes-app)
+5. 💪 Opened PR [#1](https://github.com/jasonrowsell/notes-app/pull/1) in [jasonrowsell/notes-app](https://github.com/jasonrowsell/notes-app)
 <!--END_SECTION:activity-->
 
 </details>

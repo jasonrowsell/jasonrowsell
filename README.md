@@ -64,11 +64,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#852](https://github.com/makersacademy/instagram-challenge/pull/852) in [makersacademy/instagram-challenge](https://github.com/makersacademy/instagram-challenge)
-2. 🎉 Merged PR [#18](https://github.com/ahmad047/acebook-team-smiley-face/pull/18) in [ahmad047/acebook-team-smiley-face](https://github.com/ahmad047/acebook-team-smiley-face)
-3. ❌ Closed PR [#14](https://github.com/ahmad047/acebook-team-smiley-face/pull/14) in [ahmad047/acebook-team-smiley-face](https://github.com/ahmad047/acebook-team-smiley-face)
-4. 🎉 Merged PR [#16](https://github.com/ahmad047/acebook-team-smiley-face/pull/16) in [ahmad047/acebook-team-smiley-face](https://github.com/ahmad047/acebook-team-smiley-face)
-5. 🎉 Merged PR [#17](https://github.com/ahmad047/acebook-team-smiley-face/pull/17) in [ahmad047/acebook-team-smiley-face](https://github.com/ahmad047/acebook-team-smiley-face)
+1. 🎉 Merged PR [#19](https://github.com/ahmad047/acebook-team-smiley-face/pull/19) in [ahmad047/acebook-team-smiley-face](https://github.com/ahmad047/acebook-team-smiley-face)
+2. 💪 Opened PR [#852](https://github.com/makersacademy/instagram-challenge/pull/852) in [makersacademy/instagram-challenge](https://github.com/makersacademy/instagram-challenge)
+3. 🎉 Merged PR [#18](https://github.com/ahmad047/acebook-team-smiley-face/pull/18) in [ahmad047/acebook-team-smiley-face](https://github.com/ahmad047/acebook-team-smiley-face)
+4. ❌ Closed PR [#14](https://github.com/ahmad047/acebook-team-smiley-face/pull/14) in [ahmad047/acebook-team-smiley-face](https://github.com/ahmad047/acebook-team-smiley-face)
+5. 🎉 Merged PR [#16](https://github.com/ahmad047/acebook-team-smiley-face/pull/16) in [ahmad047/acebook-team-smiley-face](https://github.com/ahmad047/acebook-team-smiley-face)
 <!--END_SECTION:activity-->
 
 </details>

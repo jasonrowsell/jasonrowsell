@@ -64,11 +64,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/ahmad047/acebook-team-smiley-face/pull/35) in [ahmad047/acebook-team-smiley-face](https://github.com/ahmad047/acebook-team-smiley-face)
-2. 🎉 Merged PR [#29](https://github.com/ahmad047/acebook-team-smiley-face/pull/29) in [ahmad047/acebook-team-smiley-face](https://github.com/ahmad047/acebook-team-smiley-face)
-3. 🎉 Merged PR [#32](https://github.com/ahmad047/acebook-team-smiley-face/pull/32) in [ahmad047/acebook-team-smiley-face](https://github.com/ahmad047/acebook-team-smiley-face)
-4. 🎉 Merged PR [#36](https://github.com/ahmad047/acebook-team-smiley-face/pull/36) in [ahmad047/acebook-team-smiley-face](https://github.com/ahmad047/acebook-team-smiley-face)
-5. 💪 Opened PR [#36](https://github.com/ahmad047/acebook-team-smiley-face/pull/36) in [ahmad047/acebook-team-smiley-face](https://github.com/ahmad047/acebook-team-smiley-face)
+1. 🎉 Merged PR [#40](https://github.com/ahmad047/acebook-team-smiley-face/pull/40) in [ahmad047/acebook-team-smiley-face](https://github.com/ahmad047/acebook-team-smiley-face)
+2. 🎉 Merged PR [#39](https://github.com/ahmad047/acebook-team-smiley-face/pull/39) in [ahmad047/acebook-team-smiley-face](https://github.com/ahmad047/acebook-team-smiley-face)
+3. 🎉 Merged PR [#38](https://github.com/ahmad047/acebook-team-smiley-face/pull/38) in [ahmad047/acebook-team-smiley-face](https://github.com/ahmad047/acebook-team-smiley-face)
+4. 🎉 Merged PR [#37](https://github.com/ahmad047/acebook-team-smiley-face/pull/37) in [ahmad047/acebook-team-smiley-face](https://github.com/ahmad047/acebook-team-smiley-face)
+5. 🎉 Merged PR [#35](https://github.com/ahmad047/acebook-team-smiley-face/pull/35) in [ahmad047/acebook-team-smiley-face](https://github.com/ahmad047/acebook-team-smiley-face)
 <!--END_SECTION:activity-->
 
 </details>

@@ -19,7 +19,7 @@
 - 🥅 2021 Goals: Launch a social media platform
 - ⚡ Fun facts: I'm a former GB athlete and fashion designer
 
-### 🎶 Spotify Playing 
+### 🎶 Spotify Playing
 
 <img src="https://jasonrowsell-now-playing.vercel.app/api/spotify" alt="Jason's Spotify Now Playing" width="400" />
 

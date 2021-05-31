@@ -8,8 +8,8 @@
     <img alt="devto" title="My Dev Page" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
    <a href="https://github.com/jasonrowsell">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/jasonrowsell?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-    
-
+     <a href="https://codewars.com/jasonrowsell">
+    <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white"/></a>
 
 ## 👨‍💻 I'm a Junior Software Engineer
 
@@ -22,6 +22,17 @@
 ### 🎶 Spotify Playing 
 
 <img src="https://jasonrowsell-now-playing.vercel.app/api/spotify" alt="Jason's Spotify Now Playing" width="400" />
+
+## 🚀 My top projects
+
+<p align="left">
+  <a href="https://github.com/jasonrowsell/instagram-challenge"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jasonrowsell&repo=instagram-challenge&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="instagram-challenge"></a>
+  <a href="https://github.com/jasonrowsell/votty"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jasonrowsell&repo=votty&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="votty"></a>
+  <a href="https://github.com/jasonrowsell/thermostat"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jasonrowsell&repo=thermostat&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="thermostat"></a>
+  <a href="https://github.com/jasonrowsell/weather"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jasonrowsell&repo=weather&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="weather"></a>
+  <a href="https://github.com/jasonrowsell/rps-challenge"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=jasonrowsell&repo=rps-challenge&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="rps-challenge"></a>
+  <a href="https://github.com/jasonrowsell/chitter-challenge"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jasonrowsell&repo=chitter-challenge&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="chitter-challenge"></a>
+</p>
 
 ## 🛠 Languages and Tools:
 
@@ -43,6 +54,76 @@
 <br/>
 
 <br/>
+
+### Technical Knowledge
+
+I have built projects with a variety of languages and technologies. Additionally, I have practiced with and applied a multitude of programming concepts to my projects.
+
+<table>
+  <thead>
+    <tr>
+      <th>Languages</th>
+      <th>Technologies</th>
+      <th>Testing Frameworks</th>
+      <th>Concepts</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="vertical-align: top">
+        <ul>
+         <li>Ruby</li>
+          <li>JavaScript</li>
+          <li>Typescript</li>
+          <li>HTML5</li>
+          <li>CSS3/SASS</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>React</li>
+          <li>Node.js</li>
+          <li>Redux</li>
+          <li>Express</li>
+          <li>Ruby on Rails</li>
+          <li>Sinatra</li>
+          <li>MongoDB</li>
+          <li>PostgreSQL</li>
+          <li>Docker</li>
+          <li>Linux</li>
+          <li>Git</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Jest</li>
+          <li>Enzyme</li>
+          <li>React Testing Library</li>
+          <li>Jasmine</li>
+          <li>Mocha</li>
+          <li>Chai</li>
+          <li>RSpec</li>
+          <li>Minitest</li>
+          <li>Capybara</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>XP/Agile methodology</li>
+          <li>TDD/BDD</li>
+          <li>OOP/D</li>
+          <li>MVC Pattern</li>
+          <li>RESTful APIs</li>
+          <li>Remote working</li>
+          <li>Pair programming</li>
+          <li>Continuous Integration & Deployment</li>
+          <li>Git workflow</li>
+          <li>Code review</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ## 🔥 Streak Stats
 

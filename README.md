@@ -23,7 +23,7 @@
 
 <img src="https://jasonrowsell-now-playing.vercel.app/api/spotify" alt="Jason's Spotify Now Playing" width="400" />
 
-## 🚀 My top projects
+## 🚀 My Top Projects
 
 <p align="left">
   <a href="https://github.com/jasonrowsell/instagram-challenge"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jasonrowsell&repo=instagram-challenge&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="instagram-challenge"></a>

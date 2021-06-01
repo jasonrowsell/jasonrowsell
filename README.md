@@ -114,6 +114,7 @@ I have built projects with a variety of languages and technologies. Additionally
           <li>OOP/D</li>
           <li>MVC Pattern</li>
           <li>RESTful APIs</li>
+          <li>Mentoring</li>
           <li>Remote working</li>
           <li>Pair programming</li>
           <li>Continuous Integration & Deployment</li>

@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently a student at [Makers Academy](https://makers.tech/about-us/)
 - 🚀 I'm working on: [Discord Bot](https://github.com/jasonrowsell/discord-bot)
-- 🎯 I’m collaborating on: Fridge Savant(https://github.com/jasonrowsell/fridge-savant-client)
+- 🎯 I’m collaborating on: [Fridge Savant](https://github.com/jasonrowsell/fridge-savant-client)
 - 🥅 2021 Goals: Launch a social media platform
 - ⚡ Fun facts: I'm a former GB athlete and fashion designer
 

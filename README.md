@@ -147,8 +147,8 @@ I have built projects with a variety of languages and technologies. Additionally
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/jasonrowsell/fridge-savant-client/pull/10) in [jasonrowsell/fridge-savant-client](https://github.com/jasonrowsell/fridge-savant-client)
-2. 💪 Opened PR [#1](https://github.com/jasonrowsell/instagram-challenge/pull/1) in [jasonrowsell/instagram-challenge](https://github.com/jasonrowsell/instagram-challenge)
+1. 🎉 Merged PR [#10](https://github.com/jasonrowsell/fridge-savant-client/pull/10) in [jasonrowsell/fridge-savant-client](https://github.com/jasonrowsell/fridge-savant-client)
+2. 💪 Opened PR [#10](https://github.com/jasonrowsell/fridge-savant-client/pull/10) in [jasonrowsell/fridge-savant-client](https://github.com/jasonrowsell/fridge-savant-client)
 3. 💪 Opened PR [#861](https://github.com/makersacademy/instagram-challenge/pull/861) in [makersacademy/instagram-challenge](https://github.com/makersacademy/instagram-challenge)
 4. 🎉 Merged PR [#46](https://github.com/ahmad047/acebook-team-smiley-face/pull/46) in [ahmad047/acebook-team-smiley-face](https://github.com/ahmad047/acebook-team-smiley-face)
 5. 🎉 Merged PR [#45](https://github.com/ahmad047/acebook-team-smiley-face/pull/45) in [ahmad047/acebook-team-smiley-face](https://github.com/ahmad047/acebook-team-smiley-face)

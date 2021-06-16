@@ -147,11 +147,11 @@ I have built projects with a variety of languages and technologies. Additionally
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/jasonrowsell/fridge-savant-client/pull/19) in [jasonrowsell/fridge-savant-client](https://github.com/jasonrowsell/fridge-savant-client)
-2. ❌ Reopened PR [#19](https://github.com/jasonrowsell/fridge-savant-client/pull/19) in [jasonrowsell/fridge-savant-client](https://github.com/jasonrowsell/fridge-savant-client)
-3. ❌ Closed PR [#19](https://github.com/jasonrowsell/fridge-savant-client/pull/19) in [jasonrowsell/fridge-savant-client](https://github.com/jasonrowsell/fridge-savant-client)
-4. 🎉 Merged PR [#15](https://github.com/jasonrowsell/fridge-savant-client/pull/15) in [jasonrowsell/fridge-savant-client](https://github.com/jasonrowsell/fridge-savant-client)
-5. 🎉 Merged PR [#17](https://github.com/jasonrowsell/fridge-savant-client/pull/17) in [jasonrowsell/fridge-savant-client](https://github.com/jasonrowsell/fridge-savant-client)
+1. 🎉 Merged PR [#21](https://github.com/jasonrowsell/fridge-savant-client/pull/21) in [jasonrowsell/fridge-savant-client](https://github.com/jasonrowsell/fridge-savant-client)
+2. 💪 Opened PR [#21](https://github.com/jasonrowsell/fridge-savant-client/pull/21) in [jasonrowsell/fridge-savant-client](https://github.com/jasonrowsell/fridge-savant-client)
+3. 🎉 Merged PR [#20](https://github.com/jasonrowsell/fridge-savant-client/pull/20) in [jasonrowsell/fridge-savant-client](https://github.com/jasonrowsell/fridge-savant-client)
+4. 🎉 Merged PR [#19](https://github.com/jasonrowsell/fridge-savant-client/pull/19) in [jasonrowsell/fridge-savant-client](https://github.com/jasonrowsell/fridge-savant-client)
+5. ❌ Reopened PR [#19](https://github.com/jasonrowsell/fridge-savant-client/pull/19) in [jasonrowsell/fridge-savant-client](https://github.com/jasonrowsell/fridge-savant-client)
 <!--END_SECTION:activity-->
 
 </details>

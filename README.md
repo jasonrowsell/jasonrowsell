@@ -148,11 +148,11 @@ I have built projects with a variety of languages and technologies. Additionally
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#21](https://github.com/jasonrowsell/fridge-savant-client/pull/21) in [jasonrowsell/fridge-savant-client](https://github.com/jasonrowsell/fridge-savant-client)
-2. 💪 Opened PR [#21](https://github.com/jasonrowsell/fridge-savant-client/pull/21) in [jasonrowsell/fridge-savant-client](https://github.com/jasonrowsell/fridge-savant-client)
-3. 🎉 Merged PR [#20](https://github.com/jasonrowsell/fridge-savant-client/pull/20) in [jasonrowsell/fridge-savant-client](https://github.com/jasonrowsell/fridge-savant-client)
-4. 🎉 Merged PR [#19](https://github.com/jasonrowsell/fridge-savant-client/pull/19) in [jasonrowsell/fridge-savant-client](https://github.com/jasonrowsell/fridge-savant-client)
-5. ❌ Reopened PR [#19](https://github.com/jasonrowsell/fridge-savant-client/pull/19) in [jasonrowsell/fridge-savant-client](https://github.com/jasonrowsell/fridge-savant-client)
+1. 🎉 Merged PR [#29](https://github.com/jasonrowsell/chitter-challenge/pull/29) in [jasonrowsell/chitter-challenge](https://github.com/jasonrowsell/chitter-challenge)
+2. 🎉 Merged PR [#30](https://github.com/jasonrowsell/chitter-challenge/pull/30) in [jasonrowsell/chitter-challenge](https://github.com/jasonrowsell/chitter-challenge)
+3. 🎉 Merged PR [#31](https://github.com/jasonrowsell/chitter-challenge/pull/31) in [jasonrowsell/chitter-challenge](https://github.com/jasonrowsell/chitter-challenge)
+4. 🎉 Merged PR [#6](https://github.com/jasonrowsell/chitter-challenge/pull/6) in [jasonrowsell/chitter-challenge](https://github.com/jasonrowsell/chitter-challenge)
+5. 🎉 Merged PR [#5](https://github.com/jasonrowsell/chitter-challenge/pull/5) in [jasonrowsell/chitter-challenge](https://github.com/jasonrowsell/chitter-challenge)
 <!--END_SECTION:activity-->
 
 </details>

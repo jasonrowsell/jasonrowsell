@@ -74,24 +74,25 @@ I have built projects with a variety of languages and technologies. Additionally
     <tr>
       <td style="vertical-align: top">
         <ul>
-         <li>Ruby</li>
           <li>JavaScript</li>
           <li>Typescript</li>
+          <li>Ruby</li>
           <li>HTML5</li>
           <li>CSS3/SASS</li>
         </ul>
       </td>
       <td style="vertical-align: top">
         <ul>
-          <li>React</li>
           <li>Node.js</li>
-          <li>Redux</li>
           <li>Express</li>
+          <li>React</li>
+          <li>Redux</li>
           <li>Ruby on Rails</li>
           <li>Sinatra</li>
           <li>MongoDB</li>
           <li>PostgreSQL</li>
           <li>Docker</li>
+          <li>Heroku</li>
           <li>Linux</li>
           <li>Git</li>
         </ul>

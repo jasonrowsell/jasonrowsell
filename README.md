@@ -11,11 +11,11 @@
      <a href="https://www.codewars.com/users/jasonrowsell">
     <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white"/></a>
 
-## 👨‍💻 I'm a Junior Software Engineer
+## 👨‍💻 I'm a Full Stack Software Engineer
 
-- 🌱 I’m a recent graduate of [Makers Academy](https://makers.tech/about-us/)
+- 🌱 I’m a graduate of [Makers Academy](https://makers.tech/about-us/)
 - 🚀 I'm working on: [Discord Bot](https://github.com/jasonrowsell/discord-bot)
-- 🎯 I’m collaborating on: [Fridge Savant](https://github.com/jasonrowsell/fridge-savant-client)
+- 🎯 I’m recently collaborated on: [Fridge Savant](https://github.com/jasonrowsell/fridge-savant-client)
 - ✏️ I'm studying about: [Node.js](https://github.com/jasonrowsell/learnyounode)
 - 🥅 2021 Goals: Learn mobile app development
 - ⚡ Fun facts: I'm a former GB athlete and fashion designer

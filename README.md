@@ -15,9 +15,8 @@
     <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white"/></a>
  </div>
 
-## 👨‍💻 I'm a Full-Stack Engineer
+## 👨‍💻 I'm a Software Developer
 
-- 🌱 I’m a graduate of [Makers Academy](https://makers.tech/about-us/)
 - 🚀 I'm working on: [Discord Bot](https://github.com/jasonrowsell/discord-bot)
 - 🎯 I’m recently collaborated on: [Fridge Savant](https://github.com/jasonrowsell/fridge-savant-client)
 - ✏️ I'm studying about: [Node.js](https://github.com/jasonrowsell/learnyounode)

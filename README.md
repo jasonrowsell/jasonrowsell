@@ -18,7 +18,6 @@
 ## 👨‍💻 I'm a Software Developer
 
 - 🚀 I'm working on: [Discord Bot](https://github.com/jasonrowsell/discord-bot)
-- 🎯 I’m recently collaborated on: [Fridge Savant](https://github.com/jasonrowsell/fridge-savant-client)
 - ✏️ I'm studying about: [Node.js](https://github.com/jasonrowsell/learnyounode)
 - 🥅 2021 Goals: Learn mobile app development
 - ⚡ Fun facts: I'm a former GB athlete and fashion designer

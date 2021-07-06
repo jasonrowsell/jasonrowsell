@@ -159,6 +159,3 @@ I have built projects with a variety of languages and technologies. Additionally
 <!--END_SECTION:activity-->
 
 </details>
-
-
-<img alt="jasonrowsell's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=jasonrowsell&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>

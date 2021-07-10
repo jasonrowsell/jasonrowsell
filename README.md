@@ -1,4 +1,4 @@
-## Hey there, I'm Jason! 😎
+## Hey there, I'm Jason! 
 
 <div align="left">
  <a href="https://www.linkedin.com/in/jason-rowsell">

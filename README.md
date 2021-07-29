@@ -26,7 +26,7 @@
 
 <img src="https://jasonrowsell-now-playing.vercel.app/api/spotify" alt="Jason's Spotify Now Playing" width="400" />
 
-## 🚀 My Top Projects
+<!-- ## 🚀 My Top Projects
 
 <p align="left">
   <a href="https://github.com/jasonrowsell/instagram-challenge"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jasonrowsell&repo=instagram-challenge&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="instagram-challenge"></a>
@@ -35,7 +35,7 @@
   <a href="https://github.com/jasonrowsell/weather"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jasonrowsell&repo=weather&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="weather"></a>
   <a href="https://github.com/jasonrowsell/rps-challenge"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=jasonrowsell&repo=rps-challenge&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="rps-challenge"></a>
   <a href="https://github.com/jasonrowsell/bank-tech-test-ruby"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jasonrowsell&repo=bank-tech-test-ruby&show_icons=false&count_private=true&theme=react&hide_border=true&bg_color=1F222A" alt="bank-tech-test-ruby"></a>
-</p>
+</p> -->
 
 ## 🛠 Languages and Tools:
 

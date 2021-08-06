@@ -19,7 +19,7 @@
 
 - 🚀 I'm working on: [Discord Bot](https://github.com/jasonrowsell/discord-bot)
 - ✏️ I'm studying about: [Node.js](https://github.com/jasonrowsell/learnyounode)
-- 🥅 2021 Goals: Learn mobile app development
+- 🥅 2021 Goals: Learn about Machine Learning
 - ⚡ Fun facts: I'm a former GB athlete and fashion designer
 
 ### 🎶 Spotify Playing

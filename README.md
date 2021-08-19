@@ -79,8 +79,6 @@ I have built projects with a variety of languages and technologies. Additionally
           <li>JavaScript</li>
           <li>Typescript</li>
           <li>Ruby</li>
-          <li>HTML5</li>
-          <li>CSS3/SASS</li>
         </ul>
       </td>
       <td style="vertical-align: top">
@@ -88,7 +86,6 @@ I have built projects with a variety of languages and technologies. Additionally
           <li>Node.js</li>
           <li>Express</li>
           <li>React</li>
-          <li>Redux</li>
           <li>Ruby on Rails</li>
           <li>Sinatra</li>
           <li>MongoDB</li>

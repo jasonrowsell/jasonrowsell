@@ -32,9 +32,10 @@ Here are a few technologies I've been working with recently:
 
     • JavaScript (ES6+)
     • React
-    • React Native
-    • Express
     • Next.js
+    • React Native
+    • Node.js
+    • Express
     • Docker
     • Kubernetes
 

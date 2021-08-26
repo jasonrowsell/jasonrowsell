@@ -1,6 +1,8 @@
-## Hey there, I'm Jason! 
+<div align="center">
+ <h2>Hey there, I'm Jason! 🙋‍♂️</h2>
+</div>
 
-<div align="left">
+<div align="center">
  <a href="https://www.linkedin.com/in/jason-rowsell">
     <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
      <a href="#">

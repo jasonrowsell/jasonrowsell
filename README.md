@@ -25,7 +25,7 @@
 
 <p>I'm passionate about building things that live on the internet or on your phone. My interest in software development started as a teenager when I decided to learn the basics of web development — my curiosity for building websites grew into a desire to understand more about software engineering. ⚙️</p>
 
-Fast-forward to today, I have the privilege of working as a [software developer](https://www.linkedin.com/in/jason-rowsell/) as well being a mentor for [aspiring developers](https://makers.tech/). My main focus currently is practicing my full-stack and platform skills in order to create innovative and scalable applications for both the web and mobile. 🚀
+Fast-forward to today, I have the privilege of working as a [software developer](https://www.linkedin.com/in/jason-rowsell/) as well as being a mentor for [aspiring developers](https://makers.tech/). My main focus currently is practicing my full-stack and platform skills in order to create innovative and scalable applications for both the web and mobile. 🚀
 
 </br>
 </br>

@@ -46,9 +46,9 @@ Here are a few technologies I've been working with recently:
 
 ### 📈 GitHub Stats
 
-<p align="left">
-    <img alt="jasonrowsell's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jasonrowsell&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="200"/></a>
-  <img alt="jasonrowsell's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonrowsell&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=html,css" height="200"/></a>
+<p align="center">
+    <img alt="jasonrowsell's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jasonrowsell&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="175"/></a>
+  <img alt="jasonrowsell's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonrowsell&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&hide=html,css" height="175"/></a>
 </p>
 
 <!-- ## 🚀 My Top Projects

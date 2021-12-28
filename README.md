@@ -33,6 +33,7 @@ Fast-forward to today, I have the privilege of working as a [software developer]
 Here are a few technologies I've been working with recently: 
 
     • JavaScript (ES6+)
+    • TypeScript
     • React
     • Next.js
     • React Native

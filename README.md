@@ -38,7 +38,6 @@ Here are a few technologies I've been working with recently:
     • Next.js
     • React Native
     • Node.js
-    • Express
     • Docker
     • Kubernetes
 

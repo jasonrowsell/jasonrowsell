@@ -1,5 +1,5 @@
 <div align="center">
- <h2>Hey there, I'm Jason! 🙋‍♂️</h2>
+ <h2>Hey, I'm Jason! ✌️</h2>
 </div>
 
 <div align="center">
@@ -17,15 +17,19 @@
     <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white"/></a>
  </div>
  
-## 👨‍💻 I'm a Software Developer
+## 👨‍💻 I'm a Software Engineer
 
 <img src="https://github.com/jasonrowsell/jasonrowsell/blob/main/somedogcodingidk.jpg" alt="test test" align="right" height="300"/>
 
 <p>I currently live in London, United Kingdom. 🇬🇧</p>
 
-<p>I'm passionate about building things that live on the internet or on your phone. My interest in software development started as a teenager when I decided to learn the basics of web development — my curiosity for building websites grew into a desire to understand more about software engineering. ⚙️</p>
+<p>I'm passionate about building things that live on the internet or on your phone.</p>
 
-Fast-forward to today, I have the privilege of working as a [software developer](https://www.linkedin.com/in/jason-rowsell/) as well as being a mentor for [aspiring engineers](https://makers.tech/). My main focus currently is to grow as an engineer and be a part of new experiences, in order to create innovative and scalable applications. 🚀
+</br>
+
+I currently work as a [software engineer](https://www.linkedin.com/in/jason-rowsell/) and I'm a mentor for [aspiring engineers](https://makers.tech/). Currently, my main focus is to grow as an engineer and be a part of new experiences, in order to create innovative and scalable applications. 
+
+Things that I'm passionate about include cross-platform development technologies, distributed systems and machine learning. 🚀
 
 </br>
 </br>

@@ -1,36 +1,39 @@
-<div align="center">
- <h2>Hey, I'm Jason! ✌️</h2>
-</div>
+<h2>Hey, I'm Jason ✌️</h2>
 
-<div align="center">
- <a href="https://www.linkedin.com/in/jason-rowsell">
-    <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-     <a href="#">
-    <img alt="portfolio" title="My Portfolio" src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
- <a href="mailto:jasonrowsell@hotmail.co.uk">
-  <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="#">
-    <img alt="devto" title="My Dev Page" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
-   <a href="https://github.com/jasonrowsell">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/jasonrowsell?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-     <a href="https://www.codewars.com/users/jasonrowsell">
-    <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white"/></a>
- </div>
- 
-## 👨‍💻 I'm a Software Engineer
+I currently live in London, United Kingdom. 🇬🇧 I'm currently a <a href=https://www.linkedin.com/in/jason-rowsell/>software engineer</a> and a mentor for <a href=https://makers.tech/>aspiring engineers</a>.<p/>
+I'm working on some side projects, learning things, fixing things <i>(and breaking things 🤯)</i>.
 
-<img src="https://github.com/jasonrowsell/jasonrowsell/blob/main/somedogcodingidk.jpg" alt="test test" align="right" height="300"/>
-
-<p>I currently live in London, United Kingdom. 🇬🇧</p>
-
-<p>I'm passionate about building things that live on the internet or on your phone.</p>
+<p>
+ <a href="mailto: jasonrowsell@hotmail.co.uk">
+  <img src="https://img.shields.io/badge/-Email-D14836?style=style=&amp&logo=gmail&logoColor=white" alt="Gmail Badge">
+ </a> 
+ <a href="https://www.linkedin.com/in/jason-rowsell/">
+  <img src="https://img.shields.io/badge/-Jason%20Rowsell-0077B5?style=&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/jason-rowsell/" alt="LinkedIn Badge">
+ </a>
+ <a href="https://dev.to/spiderpig86">
+  <img src="https://img.shields.io/badge/-@jasonrowsell-0A0A0A?style=&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/jasonrowsell" alt="DevTo Badge">
+ </a>
+ <a href="https://open.spotify.com/user/saltnpepperyoo">
+  <img src="https://img.shields.io/badge/-@Jason%20Rowsell-1ED760?for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge">
+ </a>
+</p>
 
 </br>
 
-I currently work as a [software engineer](https://www.linkedin.com/in/jason-rowsell/) and I'm a mentor for [aspiring engineers](https://makers.tech/). Currently, my main focus is to grow as an engineer and be a part of new experiences, in order to create innovative and scalable applications. 
+<img src="https://github.com/jasonrowsell/jasonrowsell/blob/main/somedogcodingidk.jpg" alt="test test" align="right" height="350"/>
 
-Things that I'm passionate about include cross-platform development technologies, distributed systems and machine learning. 🚀
+### A Few Quick Facts ⚡️
 
+<ul>
+<li>🔭 I’m currently working on <a href="https://github.com/jasonrowsell/NitroApp">Nitro</a>.</li>
+ <li>🧐 Learning about <strong>cross-platform development technologies</strong>, <strong>serverless architectures</strong>, <strong>distributed systems</strong>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/jasonrowsell">Github</a>.</li>
+<li>💬 Ping me to discuss about <strong>react, react native, flutter</strong>.</li>
+<li>📙 Check out my <a href="">resume</a>.</li>
+<li>🎉 Fun Fact: I'm a fashion design and history nerd.</li>
+</ul>
+
+</br>
 </br>
 </br>
 
@@ -45,10 +48,10 @@ Here are a few technologies I've been working with recently:
     • Docker
     • Kubernetes
 
-### 🎶 Spotify Playing
+### Spotify Playing 🎶
  <img src="https://jasonrowsell-now-playing.vercel.app/api/spotify" alt="Jason's Spotify Now Playing" width="500"/>
 
-### 📈 GitHub Stats
+### GitHub Stats 📈 
 
 <p align="center">
     <img alt="jasonrowsell's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jasonrowsell&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="175"/></a>

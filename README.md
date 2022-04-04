@@ -20,7 +20,7 @@ I'm working on some side projects, learning things, fixing things <i>(and breaki
 
 </br>
 
-<img src="https://github.com/jasonrowsell/jasonrowsell/blob/main/somedogcodingidk.jpg" alt="test test" align="right" height="350"/>
+<img src="https://github.com/jasonrowsell/jasonrowsell/blob/main/somedogcodingidk.jpg" alt="test test" align="right" height="300"/>
 
 ### A Few Quick Facts ⚡️
 

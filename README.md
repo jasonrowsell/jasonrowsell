@@ -10,7 +10,7 @@ I'm working on some side projects, learning things, fixing things <i>(and breaki
  <a href="https://www.linkedin.com/in/jason-rowsell/">
   <img src="https://img.shields.io/badge/-Jason%20Rowsell-0077B5?style=&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/jason-rowsell/" alt="LinkedIn Badge">
  </a>
- <a href="https://dev.to/spiderpig86">
+ <a href="https://dev.to/jasonrowsell">
   <img src="https://img.shields.io/badge/-@jasonrowsell-0A0A0A?style=&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/jasonrowsell" alt="DevTo Badge">
  </a>
  <a href="https://open.spotify.com/user/saltnpepperyoo">

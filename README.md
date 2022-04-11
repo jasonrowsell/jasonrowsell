@@ -45,8 +45,7 @@ Here are a few technologies I've been working with recently:
     • Next.js
     • React Native
     • Node.js
-    • Docker
-    • Kubernetes
+    • MongoDB
 
 ### Spotify Playing 🎶
  <img src="https://jasonrowsell-now-playing.vercel.app/api/spotify" alt="Jason's Spotify Now Playing" width="500"/>

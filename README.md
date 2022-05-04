@@ -28,7 +28,7 @@ I'm working on some side projects, learning things, fixing things <i>(and breaki
 <li>🔭 I’m currently working on <a href="https://github.com/jasonrowsell/NitroApp">Nitro</a>.</li>
  <li>🧐 Learning about <strong>cross-platform development technologies</strong>, <strong>serverless architectures</strong>, <strong>distributed systems</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/jasonrowsell">Github</a>.</li>
-<li>💬 Ping me to discuss about <strong>react, react native, flutter</strong>.</li>
+<li>💬 Ping me to discuss about <strong>react native, gRPC</strong>.</li>
 <li>📙 Check out my <a href="">resume</a>.</li>
 <li>🎉 Fun Fact: I'm a fashion design and history nerd.</li>
 </ul>

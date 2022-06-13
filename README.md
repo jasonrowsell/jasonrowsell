@@ -25,7 +25,7 @@ I'm working on some side projects, learning things, fixing things <i>(and breaki
 ### A Few Quick Facts ⚡️
 
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/jasonrowsell/NitroApp">Nitro</a>.</li>
+<li>🔭 I’m currently working on <a href="https://github.com/jasonrowsell/speccy">Speccy</a>.</li>
  <li>🧐 Learning about <strong>cross-platform development technologies</strong>, <strong>serverless architectures</strong>, <strong>distributed systems</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/jasonrowsell">Github</a>.</li>
 <li>💬 Ping me to discuss about <strong>react native, gRPC</strong>.</li>
@@ -39,9 +39,8 @@ I'm working on some side projects, learning things, fixing things <i>(and breaki
 
 Here are a few technologies I've been working with recently: 
 
-    • JavaScript (ES6+)
     • TypeScript
-    • React
+    • Go
     • Next.js
     • React Native
     • Node.js

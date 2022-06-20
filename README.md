@@ -1,6 +1,6 @@
 <h2>Hey, I'm Jason ✌️</h2>
 
-I currently live in London, United Kingdom. 🇬🇧 I'm currently a <a href=https://www.linkedin.com/in/jason-rowsell/>software engineer</a> and a mentor for <a href=https://makers.tech/>aspiring engineers</a>.<p/>
+I currently live in London, United Kingdom. 🇬🇧 I'm a <a href=https://www.linkedin.com/in/jason-rowsell/>software engineer</a> and a mentor for <a href=https://makers.tech/>aspiring engineers</a>.<p/>
 I'm working on some side projects, learning things, fixing things <i>(and breaking things 🤯)</i>.
 
 <p>
